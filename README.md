@@ -1,6 +1,6 @@
 ## Contact
 
-* yokota.kazuma.86n__at__st.kyoto-u.ac.jp
+* yokota.kazuma.i26__at__kyoto-u.jp
 
 Please replace `__at__` by `@`.
 
